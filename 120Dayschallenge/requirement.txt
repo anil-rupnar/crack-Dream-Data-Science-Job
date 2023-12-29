@@ -1,0 +1,19 @@
+step 1: go and change powershell to command prompt
+step 2:crate env
+        conda create -p venv python==3.8
+step 3:conda activate venv/
+step 4:pip install ipykernel
+
+how to remove conda env
+step1:deactivate env    
+        conda deactivate
+step2:conda env remove --name your_environment_name
+
+# how many env are present in anaconda
+        conda info --envs
+
+
+what is varibale ?write very simple and short definition and real-life example to realt this concept.
+give me example but don't explain code.write all answer in in markdown cellS
+
+first, write a question then options then answer and answer explanation. .write this in the markdown cell to easy to copy of the pest.don't write each question separately. refer to this format example:

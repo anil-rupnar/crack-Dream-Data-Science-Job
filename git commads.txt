@@ -1,0 +1,14 @@
+>git init
+first crate readme.md file
+>git add .   
+>git commit -m "first commit"
+>git branch -m main
+>git remote add origin https://github.com/anil-rupnar/crack-Dream-Data-Science-Job.git
+
+--------------
+push code existing Directory
+
+>git init 
+>git add . 
+>git branch -m main
+>git pull origin main
