@@ -14,7 +14,7 @@ Software:
 Vscode
 
 Python mentor:
-(sudhanshu kumar sir)
+(@sudhanshu kumar sir)
 
 
 Practice Code :
