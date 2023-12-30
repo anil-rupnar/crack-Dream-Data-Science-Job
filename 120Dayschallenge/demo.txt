@@ -1,11 +1,15 @@
 
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 4 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 5 of the 120-day crack Data science Job challenge!
 
-#Day4
+#Day5
 
 Todyas learning:
-1. For loop
+1. There are a total of 5 quizzes based on learning from Day 1 to Day 5.
+2. There are a total of 2 assignments and solutions based on learning from Day 1 to Day 5.
+
+Note: Please ensure that you have completed learning from Day 1 to Day 5 before attempting this quiz and the assignments; otherwise, it may not be beneficial. 
+Keep learning and keep growing.
 
 Language:
 Python[ipykernal]
@@ -17,15 +21,13 @@ Python mentor:
 (@sudhanshu kumar sir)
 
 
-Practice Code :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day5/Practice%20code
-Assingment:
-Assignment & solution :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day5/Assignments
-Quiz :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day5/Quiz
-handwritten Notes:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/120Dayschallenge/Day5/Handwritten%20notes%20Day%203%20%2C%204%20%26%205.pdf
+
+[Total 2 Assignment & solution ] :
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day6/Assignments
+
+[Total 5 Quiz] :
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day6/Quiz
+
 Github commands:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20commads.txt
 
