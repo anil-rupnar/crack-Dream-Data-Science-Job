@@ -17,3 +17,15 @@ what is varibale ?write very simple and short definition and real-life example t
 give me example but don't explain code.write all answer in in markdown cellS
 
 first, write a question then options then answer and answer explanation. .write this in the markdown cell to easy to copy of the pest.don't write each question separately. refer to this format example:
+
+**Question:4**
+```python
+
+```
+**Options:**
+```python
+
+```
+**Answer:**
+
+**Explanation:**

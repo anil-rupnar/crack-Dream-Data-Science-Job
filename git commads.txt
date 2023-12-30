@@ -4,7 +4,7 @@ first crate readme.md file
 >git commit -m "first commit"
 >git branch -m main
 >git remote add origin https://github.com/anil-rupnar/crack-Dream-Data-Science-Job.git
-
+>git push -u origin main
 --------------
 push code existing Directory
 
