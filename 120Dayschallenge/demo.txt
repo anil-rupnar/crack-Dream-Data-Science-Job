@@ -4,7 +4,7 @@ Excited to tackle Day 8 of the 120-day crack Data science Job challenge!
 
 #Day8
 
-Todyas learning:
+Todays learning:
  1. Python Task 1
  2. Python Task 2
 
