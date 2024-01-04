@@ -1,12 +1,15 @@
 
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 8 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 11 of the 120-day crack Data science Job challenge!
 
-#Day8
+#Day11
 
-Todays learning:
- 1. Python Task 1
- 2. Python Task 2
+Today's learning:
+ 1. Buffered Read And Write 
+ 2. File reading and writing 
+ 3. logging in python 
+ 4. Working With Files 
+ 5. modules and package 
 
 Language:
 Python[ipykernal]
@@ -19,12 +22,10 @@ Python mentor:
 
 
 
-[ Total 2 Assignment & solution ] :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day7/Assinment
-
-[ Total 2 Quiz ]:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day7/Quiz
-
+[Practice code]:
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day10/Practice%20Code
+[ Quiz ]:
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day10/Quizes
 Github commands:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20commads.txt
 
