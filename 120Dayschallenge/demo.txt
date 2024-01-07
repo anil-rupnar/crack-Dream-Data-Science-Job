@@ -1,13 +1,13 @@
 
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 13 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 14 of the 120-day crack Data science Job challenge!
 
-#Day13
+#Day14
 
 Today's learning:
- 1. Best Practice Exception Handling 
- 2. List Of General Use Exceptions 
-
+ 1. Multithreading  
+ 2. Multiprocessing
+ 
 
 Language:
 Python[ipykernal]
@@ -20,12 +20,13 @@ Python mentor:
 
 
 [Assignment & solution ]:
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day13/Assignments
 
 [Practice code]:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day10/Practice%20Code
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day13/Practice%20Code
 
 [ Quiz ]:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day10/Quizes
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day13/Quizes
 
 Github commands:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20commads.txt
