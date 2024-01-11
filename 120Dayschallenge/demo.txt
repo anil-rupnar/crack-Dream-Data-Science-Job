@@ -1,14 +1,16 @@
 
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 16 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 17 of the 120-day crack Data science Job challenge!
 
-#Day16
+#Day17
 
 Today's learning:
- 1. What is Web API ? 
- 2. Difference Between Api And Web Api
- 3. Rest And Soap Architecture
- 4. Restful Services
+ 1.  Flask Introduction
+ 2.  Application
+ 3.  Open Link Flask 
+ 4.  App Routing Flask 
+ 5.  Url Building Flask
+
 
 Language:
 Python[ipykernal]
@@ -21,14 +23,14 @@ Python mentor:
 
 
 
-[Class Notes ]:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day12/Practice%20Code
+[Practice code ]:
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day17/Practice%20Code
 
 [ Quiz ]:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day12/Quizes
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day17/Quizes
 
 Assignment 7 solution :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day12/Assignments
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day17/Assignments
 
 GitHub commands:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20commads.txt
