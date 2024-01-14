@@ -11,7 +11,8 @@ step2:conda env remove --name your_environment_name
 
 # how many env are present in anaconda
         conda info --envs
-
+#check hinden folders: ls -a
+#remove the .git folder : rm -rf .git
 
 what is varibale ?write very simple and short definition and real-life example to realt this concept.
 give me example but don't explain code.write all answer in in markdown cellS
