@@ -1,16 +1,16 @@
 
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 21 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 22 of the 120-day crack Data science Job challenge!
 
-#Day21
+#Day22
 
-Today's learning: Import Library in Pandas
+Today's learning: Important Library in Pandas
 
- 1.  Pandas Basic
- 2.  Pandas Advance
+ 1.  Pandas Advance Part-3
+ 2.  Pandas Advance Part-4
+ 3.  Pandas Advance Part-5
 
 Language :
-
 Python[ipykernal]
 
 Software:
@@ -22,12 +22,13 @@ Python mentor:
 
 
 [Practice code ]:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day20/Image_scrapper_main
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day22/Practice%20Code/flask_app_a-main
 
 Assignment & solution :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day20/Assignment
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day22/Assignment
 
 Quiz :
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day22/Quiz
 
 GitHub commands:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20commads.txt
