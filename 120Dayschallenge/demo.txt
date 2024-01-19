@@ -1,14 +1,13 @@
 
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 23 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 25 of the 120-day crack Data science Job challenge!
 
-#Day23
+#Day25
 
 Today's learning: 
 
- 1.  Seaborn
- 2.  Plotly
- 3.  matplotlib
+ 1.  Bokeh
+ 2.  Total 11 Python Practice Set Question & solution 
 
  
 
@@ -23,8 +22,11 @@ Python mentor:
 
 
 
-[Practice code ]:
+[Practice Question ]:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day24/Practice%20code
+
+[Practice solution ]:
+
 Assignment & solution :
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day24/Assignment
 
