@@ -1,13 +1,15 @@
 
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 25 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 26 of the 120-day crack Data science Job challenge!
 
-#Day25
+#Day26
 
 Today's learning: 
 
- 1.  Bokeh
- 2.  Total 11 Python Practice Set Question & solution 
+ 1.  Introduction to Statistics
+ 2.  Types of Statistics
+ 3.  Types of Data
+ 4.  Levels of Measurement
 
  
 
@@ -22,17 +24,11 @@ Python mentor:
 
 
 
-[Practice Question ]:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day25/Practice%20test%20Question
-
-[Practice solution ]:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day25/Practice%20test%20Solution
+Practice Notes :
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day26/Practice%20Notes
 
 Assignment & solution :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day25/Assignment
-
-Quiz :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day25/Quiz
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day26/Practice%20Notes
 
 GitHub commands:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20commads.txt
