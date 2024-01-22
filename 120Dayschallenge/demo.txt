@@ -1,16 +1,17 @@
 
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 26 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 28 of the 120-day crack Data science Job challenge!
 
-#Day26
+#Day28
 
-Today's learning: 
-
- 1.  Introduction to Statistics
- 2.  Types of Statistics
- 3.  Types of Data
- 4.  Levels of Measurement
-
+ 1.  Probability Density Distribution Function
+ 2.  PDF, PMF CDF
+ 3.  Types of Probability Distribution
+ 4.  Bernoulli Distribution
+ 5.  Binomial Distribution
+ 6.  Poisson Distribution
+ 7.  Normal or Gaussian Distribution
+ 
  
 
 Language :
