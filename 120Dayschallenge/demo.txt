@@ -4,10 +4,12 @@ Excited to tackle Day 29 of the 120-day crack Data science Job challenge!
 
 #Day29
 
- 1.  Uniform Distribution
- 2.  Z Stats Z Table
- 3.  Central Limit Theorem
- 
+ 1.  Estimate
+ 2.  Hypothesis Testing Mechanism
+ 3.  P value
+ 4.  Z Test with Examples
+ 5.  Student T Distribution
+ 6.  T Stats T Test
  
 
 Language :
@@ -21,13 +23,13 @@ Python mentor:
 
 
 Practice Notes :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day28/Practice%20Notes
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day29/Practice%20Notes
 
 Assignment & solution :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day28/Assignment
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day29/Assignment
 
 Quiz:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day28/Quiz
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day29/Quiz
 
 GitHub commands:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20commads.txt
