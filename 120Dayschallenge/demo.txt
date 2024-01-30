@@ -4,9 +4,10 @@ Excited to tackle Day 33 of the 120-day crack Data science Job challenge!
 
 #Day33
 
- 1.  F - Distribution.
- 2.  Variance ratio test.
- 3.  F test with pyhton.
+1.  Anova.
+2.  Assumption in Anova.
+3.  Types of Anava.
+4.  partition of variance in Anava.
 
 Language :
 Python[ipykernal]
@@ -17,9 +18,6 @@ Vscode
 Python mentor:
 (@naikkrish sir)
 
-
-Practice code :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day33/Practice%20code
 
 Practice Notes :
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day33/Practice%20Notes
