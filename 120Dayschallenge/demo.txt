@@ -1,13 +1,12 @@
 
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 32 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 33 of the 120-day crack Data science Job challenge!
 
-#Day32
+#Day33
 
- 1.  what is chi square test ?
- 2.  chi square for googness of fit.
- 3.  chi square test with python. 
- 
+ 1.  F - Distribution.
+ 2.  Variance ratio test.
+ 3.  F test with pyhton.
 
 Language :
 Python[ipykernal]
@@ -20,16 +19,16 @@ Python mentor:
 
 
 Practice code :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day32/Practice%20code
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day33/Practice%20code
 
 Practice Notes :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day32/Practice%20Notes
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day33/Practice%20Notes
 
 Assignment & solution :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day32/Assignment
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day33/Assignment
 
 Quiz:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day32/Quiz
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day33/Quiz
 
 GitHub commands:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20commads.txt
