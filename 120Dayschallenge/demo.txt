@@ -1,13 +1,13 @@
 
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 33 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 34 of the 120-day crack Data science Job challenge!
 
-#Day33
+#Day35
 
-1.  Anova.
-2.  Assumption in Anova.
-3.  Types of Anava.
-4.  partition of variance in Anava.
+ 1.  AI vs ML vs DL vs DS.
+ 2.  Supervised, Unsupervised Reinforcement Learning
+ 3.  Train, Test Validation
+
 
 Language :
 Python[ipykernal]
@@ -15,18 +15,18 @@ Python[ipykernal]
 Software:
 Vscode
 
-Python mentor:
+Mentor:
 (@naikkrish sir)
 
 
 Practice Notes :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day33/Practice%20Notes
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day34/Practice%20Notes
 
 Assignment & solution :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day33/Assignment
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day34/Assignment
 
 Quiz:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day33/Quiz
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day34/Quiz
 
 GitHub commands:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20commads.txt
