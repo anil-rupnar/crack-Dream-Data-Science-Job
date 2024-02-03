@@ -1,15 +1,18 @@
 
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 36 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 37 of the 120-day crack Data science Job challenge!
 
-#Day36
+Note : Sorry for posting my daily work late, Because I am facing issues in the GitHub repository. That's why I posted my task late. Please, everyone, understand me.
 
- 1.  Variance, Bias, Overfitting Underfitting
- 2.  Handling Missing Values
- 3.  Handling Imbalanced Dataset
- 4.  SMOTE (Synthetic Minority Oversampling Technique)
- 5.  Data Interpolation
- 6.  Handling Outliers
+#Day37
+
+ 1.  Feature Selection
+ 2.  Feature Scaling Normalization
+ 3.  Normalization Min Max Scaling
+ 4.  Unit Vectors Feature Scaling
+ 5.  PCA
+
+
 Language :
 Python[ipykernal]
 
@@ -21,13 +24,16 @@ Mentor:
 
 
 Practice Notes :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day35/Practice%20Notes
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day37/Practice%20Notes
+
+Practice Code :
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day37/Practice%20Code
 
 Assignment & solution :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day35/Assignment
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day37/Assignment
 
 Quiz:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day35/Quiz
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day37/Quiz
 
 GitHub commands:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20commads.txt
