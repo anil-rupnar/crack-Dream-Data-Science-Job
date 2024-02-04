@@ -1,16 +1,12 @@
 
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 37 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 39 of the 120-day crack Data science Job challenge!
 
-Note : Sorry for posting my daily work late, Because I am facing issues in the GitHub repository. That's why I posted my task late. Please, everyone, understand me.
+#Day39
 
-#Day37
+ 1. Covariance And Correlation
+ 2. Covariance And Correlation with Python
 
- 1.  Feature Selection
- 2.  Feature Scaling Normalization
- 3.  Normalization Min Max Scaling
- 4.  Unit Vectors Feature Scaling
- 5.  PCA
 
 
 Language :
@@ -24,16 +20,16 @@ Mentor:
 
 
 Practice Notes :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day37/Practice%20Notes
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day38/Practice%20Notes
 
 Practice Code :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day37/Practice%20Code
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day38/Practice%20Code
 
 Assignment & solution :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day37/Assignment
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day38/Assignment
 
 Quiz:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day37/Quiz
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day38/Quiz
 
 GitHub commands:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20commads.txt
