@@ -1,12 +1,12 @@
 
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 39 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 40 of the 120-day crack Data science Job challenge!
 
-#Day39
+#Day40
 
- 1. Covariance And Correlation
- 2. Covariance And Correlation with Python
-
+ 1. EDA With Red Wine Data
+ 2. EDA Student Performance Indicator
+ 3. EDA Forest Fires
 
 
 Language :
@@ -19,17 +19,14 @@ Mentor:
 (@naikkrish sir)
 
 
-Practice Notes :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day38/Practice%20Notes
-
 Practice Code :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day38/Practice%20Code
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day39/Practice%20Code
 
 Assignment & solution :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day38/Assignment
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day39/Assignment
 
 Quiz:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day38/Quiz
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day39/Quiz
 
 GitHub commands:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20commads.txt
