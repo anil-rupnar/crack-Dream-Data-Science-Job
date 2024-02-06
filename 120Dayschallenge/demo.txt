@@ -1,12 +1,12 @@
 
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 40 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 41 of the 120-day crack Data science Job challenge!
 
-#Day40
+#Day41
 
- 1. EDA With Red Wine Data
- 2. EDA Student Performance Indicator
- 3. EDA Forest Fires
+ 1. EDA Flight Price
+ 2. EDA Google Playstore
+
 
 
 Language :
