@@ -20,14 +20,18 @@ Mentor:
 (@naikkrish sir)
 
 
+Practice Code :
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day43/Practice%20Code
+
 Practice Notes :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day42/Practice%20Notes
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day43/Practice%20Notes
+
 
 Assignment & solution :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day42/Assignment
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day43/Assignment
 
 Quiz:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day42/Quiz
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day43/Quiz
 
 GitHub commands:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20commads.txt
