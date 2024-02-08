@@ -1,11 +1,12 @@
-
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 41 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 43 of the 120-day crack Data science Job challenge!
 
-#Day41
+#Day43
 
- 1. EDA Flight Price
- 2. EDA Google Playstore
+ 1. R squared Adjusted R squared
+ 2. MSE,MAE RMSE
+ 3. Simple Linear Regression With Python
+ 4. Multiple Linear Regression
 
 
 
@@ -19,14 +20,14 @@ Mentor:
 (@naikkrish sir)
 
 
-Practice Code :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day41/Practice%20Code
+Practice Notes :
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day42/Practice%20Notes
 
 Assignment & solution :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day41/Assignment
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day42/Assignment
 
 Quiz:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day41/Quiz
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day42/Quiz
 
 GitHub commands:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20commads.txt
