@@ -1,12 +1,11 @@
+
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 43 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 44 of the 120-day crack Data science Job challenge!
 
-#Day43
+#Day44
 
- 1. R squared Adjusted R squared
- 2. MSE,MAE RMSE
- 3. Simple Linear Regression With Python
- 4. Multiple Linear Regression
+1. Ridge Regression
+2. Lasso Regression
 
 
 
@@ -20,8 +19,6 @@ Mentor:
 (@naikkrish sir)
 
 
-Practice Code :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day43/Practice%20Code
 
 Practice Notes :
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day43/Practice%20Notes
