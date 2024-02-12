@@ -38,9 +38,11 @@ open up localhost:
 ```
 
 
-![ End to End ML Project Final Output](Day46/forestfire-main/output1.png)
+![ End to End ML Project Final Output](crack-Dream-Data-Science-Job/120Dayschallenge/Day46/forestfire-main
+/output1.png)
 
-![ Pradication Output](Day46/forestfire-main/output2.png)
+![ Pradication Output](crack-Dream-Data-Science-Job/120Dayschallenge/Day46/forestfire-main
+/output2.png)
 
 
 
