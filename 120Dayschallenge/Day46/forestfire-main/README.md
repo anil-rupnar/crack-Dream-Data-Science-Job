@@ -45,12 +45,12 @@ open up localhost:
 
 
 
-### Techstack Used:
+### Required Used:
 
-- Python
-- LangChain
 - Flask
-- Meta Llama2
-- Pinecone
+- numpy 
+- pandas
+- scikit-learn
+- pickle
 
 
