@@ -36,13 +36,13 @@ Now,
 ```bash
 open up localhost:
 ```
-```bash
+
 
 ![ End to End ML Project Final Output](Day46/forestfire-main/output1.png)
 
 ![ Pradication Output](Day46/forestfire-main/output2.png)
 
-```
+
 
 
 ### Techstack Used:
