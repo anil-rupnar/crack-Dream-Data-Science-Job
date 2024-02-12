@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ```bash
 # Finally run the following command
-python app.py
+python application.py
 ```
 
 Now,
@@ -37,14 +37,14 @@ Now,
 open up localhost:
 ```
 
-```bash
+
 ![ End to End ML Project Final Output](https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/120Dayschallenge/Day46/forestfire-main/output1.png)
 
 ```
-```bash
+```
 ![ Pradication Output](https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/120Dayschallenge/Day46/forestfire-main/output2.png)
 
-```
+
 
 
 ### Important Libraries Used :
