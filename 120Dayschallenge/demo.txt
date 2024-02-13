@@ -1,14 +1,18 @@
 
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 45 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 47 of the 120-day crack Data science Job challenge!
 
 @sudhanshu kumar @naikkrish @Vishwa Mohan
 
-#Day45
+#Day47
 
- 1. Elastic Net Regression
- 2. EDA with Algerian Forest Fire
- 3. Model Training for Ridge, Lasso Elastic Net
+# Topics : 
+
+ 1. Logistic Regression Indepth Intuition
+ 2. Logistic Regression with Regularization
+ 3. Performance Metrics Confusion Matrix, Accuracy, Precision Recall
+
+
 
 Language :
 Python[ipykernal]
@@ -20,17 +24,14 @@ Mentor:
 (@naikkrish sir)
 
 
-Practice Code :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day45/Practice%20Code
-
-Practice Notes :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day45/Practice%20Notes
+Project Code :
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day46/forestfire-main
 
 Assignment & solution :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day45/Assignment
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day46/Assignment
 
 Quiz:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day45/Quiz
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day46/Quiz
 
 GitHub commands:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20commads.txt
