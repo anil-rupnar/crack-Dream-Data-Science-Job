@@ -1,0 +1,89 @@
+<!-- 
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>ML API - Output Display</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .result-container {
+      text-align: center;
+    }
+    h1 {
+      color: #333;
+      margin-bottom: 20px;
+    }
+    .result {
+      margin-top: 20px;
+      font-size: 24px;
+      font-weight: bold;
+      color: #007bff;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="result-container">
+    <h1>Diabetes Prediction Final Result</h1>
+    <div class="result">
+      <h2>Person is: {{result}}</h2>
+    </div>
+  </div>
+</body>
+</html> -->
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>ML API - Output Display</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .result-container {
+      text-align: center;
+    }
+    h1 {
+      color: #333;
+      margin-bottom: 20px;
+    }
+    .result {
+      margin-top: 20px;
+      font-size: 24px;
+      font-weight: bold;
+      color: #007bff;
+    }
+    .diabetes-yes {
+      color: #dc3545; /* Red color for indicating diabetes */
+    }
+    .diabetes-no {
+      color: #28a745; /* Green color for indicating no diabetes */
+    }
+  </style>
+</head>
+
+<body>
+  <div class="result-container">
+    <h1>Diabetes Prediction Final Result</h1>
+    <div class="result {{diabetes_result}}"> <!-- Add class based on prediction result -->
+      <h2>{{result}}</h2>
+    </div>
+  </div>
+</body>
+</html>
