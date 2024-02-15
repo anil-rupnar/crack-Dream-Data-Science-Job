@@ -1,17 +1,18 @@
 
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 47 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 49 of the 120-day crack Data science Job challenge!
 
 @sudhanshu kumar @naikkrish @Vishwa Mohan
 
-#Day47
+#Day49
 
 # Topics : 
 
- 1. Logistic Regression Indepth Intuition
- 2. Logistic Regression with Regularization
- 3. Performance Metrics Confusion Matrix, Accuracy, Precision Recall
+ 1. Decision Tree Classifier Intuition
+ 2. Decision Tree For Numerical Split
+ 3. Post Pruning And Prepruning Decision Trees
 
+ 
 
 
 Language :
