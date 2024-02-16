@@ -1,17 +1,19 @@
-
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 49 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 50 of the 120-day crack Data science Job challenge!
 
 @sudhanshu kumar @naikkrish @Vishwa Mohan
 
-#Day49
+#Day50
 
 # Topics : 
 
- 1. Decision Tree Classifier Intuition
- 2. Decision Tree For Numerical Split
- 3. Post Pruning And Prepruning Decision Trees
 
+ 1. Decision Tree Classifier Implementation
+ 2. Decision Tree Post Pruning
+ 3. Decision Tree Regressor In depth Intuition
+ 4. Decision Tree Regressor Implementation
+
+ 
  
 
 
@@ -25,14 +27,14 @@ Mentor:
 (@naikkrish sir)
 
 
-Project Code :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day46/forestfire-main
-
 Assignment & solution :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day46/Assignment
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day49/Assignment
+
+Practice Notes: 
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day49/Practice%20Notes
 
 Quiz:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day46/Quiz
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day49/Quiz
 
 GitHub commands:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20commads.txt
