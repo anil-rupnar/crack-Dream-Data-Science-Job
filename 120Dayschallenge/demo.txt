@@ -1,18 +1,20 @@
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 50 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 51 of the 120-day crack Data science Job challenge!
 
 @sudhanshu kumar @naikkrish @Vishwa Mohan
 
-#Day50
+#Day51
 
 # Topics : 
 
-
- 1. Decision Tree Classifier Implementation
- 2. Decision Tree Post Pruning
- 3. Decision Tree Regressor In depth Intuition
- 4. Decision Tree Regressor Implementation
-
+ 1. Support Vector Classifier Indepth Intuition
+ 2. Support Vector Machines Classifier
+ 3. Support Vector Regressor Indepth Intuition
+ 4. Support Vector Regressor Implementation
+ 5. SVM Kernels Intuition
+ 6. SVM Kernels Implementation
+ 
+ 
  
  
 
@@ -28,13 +30,14 @@ Mentor:
 
 
 Assignment & solution :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day49/Assignment
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day50/Assignment
 
-Practice Notes: 
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day49/Practice%20Notes
+Practice Code: 
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day50/Practice%20Code
 
-Quiz:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day49/Quiz
+Practice Notes:
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day50/Practice%20Notes
+
 
 GitHub commands:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20commads.txt
