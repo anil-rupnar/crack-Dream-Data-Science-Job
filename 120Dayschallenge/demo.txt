@@ -1,22 +1,16 @@
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 51 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 52 of the 120-day crack Data science Job challenge!
 
 @sudhanshu kumar @naikkrish @Vishwa Mohan
 
-#Day51
+#Day52
 
 # Topics : 
 
- 1. Support Vector Classifier Indepth Intuition
- 2. Support Vector Machines Classifier
- 3. Support Vector Regressor Indepth Intuition
- 4. Support Vector Regressor Implementation
- 5. SVM Kernels Intuition
- 6. SVM Kernels Implementation
- 
- 
- 
- 
+ 1. Naive Bayes Indepth Intuition
+ 2. Variants Of Naive Bayes Algorithms
+ 3. Naive Bayes Practical Implementation
+
 
 
 Language :
@@ -30,14 +24,16 @@ Mentor:
 
 
 Assignment & solution :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day50/Assignment
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day51/Assignment
 
 Practice Code: 
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day50/Practice%20Code
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day51/Practice%20Code
 
 Practice Notes:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day50/Practice%20Notes
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day51/Practice%20Notes
 
+Quiz :
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day51/Quiz
 
 GitHub commands:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20commads.txt
