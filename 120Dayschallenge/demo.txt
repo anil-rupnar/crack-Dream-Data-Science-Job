@@ -1,16 +1,16 @@
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 53 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 54 of the 120-day crack Data science Job challenge!
 
 @sudhanshu kumar @naikkrish @Vishwa Mohan
 
-#Day53
+#Day54
 
 # Topics : 
- 1. Ensemble Techniques And Bagging
- 2. Random Forest Classifier And Regressor
- 3. Out Of Bag Score Decision Trees
- 4. Random Forest Practical Implementation
-
+ 1. Boosting Technique part-01
+ 2. Boosting Technique Part-02
+ 3. Gradient Bosting Indepth Intuition
+ 4. Xgboost Classification Algorithms
+ 5. Xgboost Regresor Algorithm
 
 Language :
 Python[ipykernal]
