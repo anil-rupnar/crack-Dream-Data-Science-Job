@@ -1,16 +1,15 @@
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 54 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 55 of the 120-day crack Data science Job challenge!
 
 @sudhanshu kumar @naikkrish @Vishwa Mohan
 
-#Day54
+#Day55
 
 # Topics : 
- 1. Boosting Technique part-01
- 2. Boosting Technique Part-02
- 3. Gradient Bosting Indepth Intuition
- 4. Xgboost Classification Algorithms
- 5. Xgboost Regresor Algorithm
+ 1. KNN Classification And Regression
+ 2. Variants Of KNN
+ 3. KNN Classifier and Regr Implementation
+
 
 Language :
 Python[ipykernal]
@@ -23,16 +22,16 @@ Mentor:
 
 
 Assignment & solution :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day53/Assignment
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day54/Assignment
 
 Practice Code: 
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day53/Practice%20Code
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day54/Practice%20Code
 
 Practice Notes:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day53/Practice%20Notes
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day54/Practice%20Notes
 
 Quiz :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day53/Quiz
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day54/Quiz
 
 GitHub commands:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20commads.txt
