@@ -1,15 +1,16 @@
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 55 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 56 of the 120-day crack Data science Job challenge!
 
 @sudhanshu kumar @naikkrish @Vishwa Mohan
 
-#Day55
+#Day56
 
 # Topics : 
- 1. KNN Classification And Regression
- 2. Variants Of KNN
- 3. KNN Classifier and Regr Implementation
-
+ 1. Curse Of Dimensionality
+ 2. Geometric Intuition Behind PCA
+ 3. MAthemathical Intuition Of PCA
+ 4.  PCA Practical Implementation
+ 
 
 Language :
 Python[ipykernal]
