@@ -1,16 +1,16 @@
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 56 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 58 of the 120-day crack Data science Job challenge!
 
 @sudhanshu kumar @naikkrish @Vishwa Mohan
 
-#Day56
+#Day58
 
-# Topics : 
- 1. Curse Of Dimensionality
- 2. Geometric Intuition Behind PCA
- 3. MAthemathical Intuition Of PCA
- 4.  PCA Practical Implementation
- 
+ 1. DBSCAN Clustering
+ 2. Silhouette Score Clustering
+ 3. K Means Clustering Implementation
+ 4. Hierarichal Clustering Implementation
+ 5. DBSCAN Algorithms Implementation
+
 
 Language :
 Python[ipykernal]
@@ -23,16 +23,13 @@ Mentor:
 
 
 Assignment & solution :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day56/Assignment
-
-Practice Code: 
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day56/Practice%20Code
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day57/Assignment
 
 Practice Notes:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day56/Practice%20Notes
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day57/Practice%20Notes
 
 Quiz :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day56/Quiz
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day57/Quiz
 
 GitHub commands:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20commads.txt
