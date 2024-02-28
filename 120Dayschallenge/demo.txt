@@ -1,16 +1,15 @@
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 58 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 59 of the 120-day crack Data science Job challenge!
 
 @sudhanshu kumar @naikkrish @Vishwa Mohan
 
-#Day58
+#Day59
 
- 1. DBSCAN Clustering
- 2. Silhouette Score Clustering
- 3. K Means Clustering Implementation
- 4. Hierarichal Clustering Implementation
- 5. DBSCAN Algorithms Implementation
-
+# Topics
+ 1. Anomaly Detection Isolation Fores
+ 2. DBSCAN Anomaly Detection
+ 3. Local Outlier Factor Anamoly Detection
+ 
 
 Language :
 Python[ipykernal]
@@ -23,13 +22,16 @@ Mentor:
 
 
 Assignment & solution :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day57/Assignment
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day58/Assignment
+
+Practice code:
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day58/Practice%20code
 
 Practice Notes:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day57/Practice%20Notes
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day58/Practice%20Notes
 
 Quiz :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day57/Quiz
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day58/Quiz
 
 GitHub commands:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20commads.txt
@@ -38,7 +40,7 @@ https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20comm
 Keep coding, stay motivated, and remember: that every challenge is an opportunity to grow! 🌱
 Share your goals in the comments below! 👇 Let's inspire each other! 🔥
 
-@sudhanshu kumar @naikkrish @Vishwa Mohan
+@sudhanshu kumar @naikkrish @Vishwa Mohan 
 
 #CodingChallenge 
 #CodeOptimization 
