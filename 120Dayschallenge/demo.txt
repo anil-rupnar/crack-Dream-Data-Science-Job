@@ -1,12 +1,20 @@
 120 days crack Data science Job challenge 🎯.
-Excited to tackle Day 59 of the 120-day crack Data science Job challenge!
+Excited to tackle Day 60 of the 120-day crack Data science Job challenge!
 
 @sudhanshu kumar @naikkrish @Vishwa Mohan
 
-#Day59
+#Day60
 
 # Topics
- 1. Anomaly Detection Isolation Fores
+
+ 1. Introduction of time series
+ 2. components of time series
+ 3. moving average
+ 4. stationary and non stationary
+ 5. acf pacf
+ 6. arima
+ 7. time sereis model building
+ 8. Time sereis EDA 1. Anomaly Detection Isolation Fores
  2. DBSCAN Anomaly Detection
  3. Local Outlier Factor Anamoly Detection
  
@@ -22,16 +30,16 @@ Mentor:
 
 
 Assignment & solution :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day58/Assignment
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day59/Assignment
 
 Practice code:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day58/Practice%20code
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day59/Practice%20code
 
 Practice Notes:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day58/Practice%20Notes
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day59/Practice%20Notes
 
 Quiz :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day58/Quiz
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day59/Quiz
 
 GitHub commands:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20commads.txt
