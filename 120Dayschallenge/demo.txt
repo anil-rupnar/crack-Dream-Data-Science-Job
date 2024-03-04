@@ -1,12 +1,15 @@
 120 days crack Data science Job challenge 🎯.
 Excited to tackle Day 60 of the 120-day crack Data science Job challenge!
 
+Excited to share my latest industry-grade machine learning project on Diamond Price Prediction!
+
 @sudhanshu kumar @naikkrish @Vishwa Mohan
 
-#Day60
+#Day61
 
-# Topics
+Project Name : Diamond Price Prediction
 
+# Topics 
  1. Introduction of time series
  2. components of time series
  3. moving average
@@ -29,17 +32,8 @@ Mentor:
 (@naikkrish sir)
 
 
-Assignment & solution :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day59/Assignment
-
-Practice code:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day59/Practice%20code
-
-Practice Notes:
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day59/Practice%20Notes
-
-Quiz :
-https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day59/Quiz
+project Code :
+https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/tree/main/120Dayschallenge/Day60/Assignment
 
 GitHub commands:
 https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/git%20commads.txt
