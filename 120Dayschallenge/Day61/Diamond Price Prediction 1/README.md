@@ -16,12 +16,12 @@ Color represents the color of the diamond, and is rated D through J, with D bein
 
 ## Home Page
 
-<img width="960" alt="image" src="120Dayschallenge\Day61\Diamond Price Prediction\notebooks\Screenshot (161).png">
+<img width="960" alt="image" src="https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/120Dayschallenge/Day61/Diamond%20Price%20Prediction%201/notebooks/Screenshot%20(161).png">
 
 
 ## Result
 
-<img width="960" alt="image" src="120Dayschallenge\Day61\Diamond Price Prediction\notebooks\Screenshot (162).png">
+<img width="960" alt="image" src="https://github.com/anil-rupnar/crack-Dream-Data-Science-Job/blob/main/120Dayschallenge/Day61/Diamond%20Price%20Prediction%201/notebooks/Screenshot%20(162).png">
 
 
 
